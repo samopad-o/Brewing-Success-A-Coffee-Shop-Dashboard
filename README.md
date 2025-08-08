@@ -46,4 +46,15 @@ I built a fully interactive Excel dashboard, combining all the charts into a sin
 * Microsoft Excel: Utilized extensively for Data Cleaning, Analysis, and Dashboard creation.
 * Adobe Color: Employed for selecting a brand-consistent color theme.
 ## Files Included
-* [[Maven: Coffee Shop Sales & Revenue Analysis Dataset(2023)](https://github.com/samopad-o/Adidas-Sales-Dashboard-Project/blob/main/Adidas%20US%20Sales%20Datasets.xlsx)
+* [[Maven: Coffee Shop Sales & Revenue Analysis Dataset(2023)](https://github.com/samopad-o/Brewing-Success-A-Coffee-Shop-Dashboard/blob/main/Maven%20Coffee%20Shop%20Sales.xlsx)
+## Insights
+The dashboard provided several key insights:
+* Coffee leads in revenue, surpassing $89000, making it Maven’s highest-performing category. Conversely, Flavors lags behind, with the lowest revenue figures.
+* June records the highest monthly revenue at over $110,000 — likely influenced by being a transitional month, marking the start of summer and warmer weather for many parts of the world. February shows the lowest sales, likely influenced by severe weather which can deter customers from leaving their homes. Heavy snow or extreme cold can lead to fewer commuters, fewer people running errands, and generally lower foot traffic for the entire month.
+* Customers buy most in the morning maybe due to the morning rush which is directly tied to the flow of traffic and people heading to work or school. Customers stop at a coffee shop on their way to the office, a classroom, or a construction site. This makes the morning a captive market for people who need a quick, convenient source of energy before they begin their tasks.
+## What I Learned
+This project was a significant learning experience, allowing me to master:
+* How to effectively clean and structure messy raw data for analysis.
+* The power of slicers to create dynamic and interactive reporting.
+* The principles of designing clean dashboards with consistent formatting and strong visual communication.
+* That Excel can be a powerful and enjoyable tool for data analysis and visualization once its capabilities are fully explored.
