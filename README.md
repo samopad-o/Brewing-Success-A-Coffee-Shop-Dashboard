@@ -40,4 +40,10 @@ I built a fully interactive Excel dashboard, combining all the charts into a sin
 * Harmonized Background Color & Branding.
 * Integrated Slicer for dynamic filtering by various dimensions.
 ## Dashboard Preview
-![Maven: Coffee Shop Sales & Revenue Analysis Dashboard (2023) Preview](https://github.com/samopad-o/Adidas-Sales-Dashboard-Project/blob/main/adidas.png)
+![Maven: Coffee Shop Sales & Revenue Analysis Dashboard (2023) Preview](https://github.com/samopad-o/Brewing-Success-A-Coffee-Shop-Dashboard/blob/main/Maven%20Coffee%20Shop%20Sales%20Dashboard.png)
+
+## Tools Used
+* Microsoft Excel: Utilized extensively for Data Cleaning, Analysis, and Dashboard creation.
+* Adobe Color: Employed for selecting a brand-consistent color theme.
+## Files Included
+* [[Maven: Coffee Shop Sales & Revenue Analysis Dataset(2023)](https://github.com/samopad-o/Adidas-Sales-Dashboard-Project/blob/main/Adidas%20US%20Sales%20Datasets.xlsx)
